@@ -1,2 +1,2 @@
 # tiktok-smiley
-Andrea's 
+Andrea's thingy
